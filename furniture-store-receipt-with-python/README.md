@@ -1,6 +1,6 @@
 # Furniture-Store-Receipt-with-Python
 
-This code simulates a simple furniture store that :
+This code simulates a simple furniture store that:
 
 - sells three items, each with their respective descriptions and prices
 - calculates the sales tax rate and defines a function to calculate the sales tax
