@@ -1,4 +1,4 @@
-# Furniture-Store-Receipt-with-Python
+# Code explanation
 
 This code simulates a simple furniture store that:
 
@@ -9,7 +9,7 @@ This code simulates a simple furniture store that:
 
 The code is optimized for readability and efficiency by using a dictionary to store the inventory, a loop to iterate over the customer's purchases, and f-strings to format the output.
 
-# Skills
+# Required skills
 
 Here are the required skills for creating this project:
 
