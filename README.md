@@ -1,6 +1,6 @@
 # Python-Projects
 
-Python-Projects is a repository that contains a collection of projects primarily made with Python. Feel free to draw inspiration from the projects and optimize the code according to your needs. Be imaginative!
+Python-Projects is a repository created by Damien SOULÉ that contains a collection of projects primarily made with Python. Feel free to draw inspiration from the projects and optimize the code according to your needs. Be imaginative!
 
 # Projects
 
