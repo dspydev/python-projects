@@ -15,6 +15,8 @@ Python-Projects is a repository created that contains a collection of projects p
 
 # Projects
 
+Below is a list of projects that will be categorized as they appear:
+
 - [Furniture Store Receipt with Python](https://github.com/developpeurpython/python-projects/tree/main/furniture-store-receipt-with-python)
 - [Magic 8-Ball with Python](https://github.com/developpeurpython/python-projects/tree/main/magic-8-ball-with-python)
  
