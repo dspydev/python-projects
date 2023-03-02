@@ -13,7 +13,7 @@ Hi, my name is Damien SOULÉ. I am passionate about Python programming in genera
 - Robotics
 - and many other fields
 
-Python-Projects is a repository that contains a collection of projects primarily made with Python. Feel free to draw inspiration from the projects and optimize the code according to your needs. Be imaginative and have fun!
+I created Python-Projects, a repository that contains a collection of projects primarily made with Python. Feel free to draw inspiration from the projects and optimize the code according to your needs. Be imaginative and have fun!
 
 # Projects
 
