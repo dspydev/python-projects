@@ -11,7 +11,7 @@ Hi, my name is Damien SOULÉ. I am passionate about Python programming in genera
 - Internet of Things
 - and many other fields
 
-Python-Projects is a repository created that contains a collection of projects primarily made with Python. Feel free to draw inspiration from the projects and optimize the code according to your needs. Be imaginative and have fun!
+Python-Projects is a repository that contains a collection of projects primarily made with Python. Feel free to draw inspiration from the projects and optimize the code according to your needs. Be imaginative and have fun!
 
 # Projects
 
@@ -19,4 +19,12 @@ As projects appear, they will be categorized and added to the list below :
 
 - [Furniture Store Receipt with Python](https://github.com/developpeurpython/python-projects/tree/main/furniture-store-receipt-with-python)
 - [Magic 8-Ball with Python](https://github.com/developpeurpython/python-projects/tree/main/magic-8-ball-with-python)
+- upcoming
  
+# Python Tutorial
+
+Below is a summary of the official tutorial available on [python.org](https://docs.python.org/3/tutorial/index.html) :
+
+- upcoming
+
+
