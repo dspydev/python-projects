@@ -10,13 +10,13 @@ As projects appear, they will be categorized and added to the list below :
 - [Magic 8-Ball with Python](https://github.com/developpeurpython/python-projects/tree/main/magic-8-ball-with-python)
 - upcoming
  
-# Python Tutorial
+# Python Cheatsheet
 
-Below is a summary of the official tutorial available on [python.org](https://docs.python.org/3/tutorial/index.html) (upcoming) :
+Below is a Python Cheatsheet:
 
 - ...
 
-# Mathematics
+# Math Skills for Python Developers
 
 One of my favorite websites to refresh my math skills :
 
@@ -28,54 +28,38 @@ Below is a list of the most popular and commonly used frameworks, packages, or l
 
 - Web Development:
 
-  - Django: High-level web framework
-  - Flask: Lightweight and flexible micro web framework
-  - Pyramid: General-purpose web framework
-  - Bottle: Fast and lightweight web framework
-  - Tornado: Scalable and non-blocking web framework
+  - [Django](https://www.djangoproject.com/): High-level web framework
+  - [Flask](https://flask.palletsprojects.com/en/2.2.x/): Lightweight and flexible micro web framework
+  - [Pyramid](https://trypyramid.com/): General-purpose web framework
+  - [Bottle](https://bottlepy.org/docs/dev/): Fast and lightweight web framework
+  - [Tornado](https://www.tornadoweb.org/en/stable/): Scalable and non-blocking web framework
 
 - Game Development:
 
-  - Pygame: Python modules for video games
-  - Panda3D: Cross-platform 3D game engine
-  - PyOpenGL: Python wrapper for OpenGL
-  - PyOgre: Python wrapper for Ogre3D
+  - [Pygame](https://www.pygame.org/tags/framework): Python modules for video games
+  - [Panda3D](https://www.panda3d.org/): Cross-platform 3D game engine
+  - [PyOpenGL](https://pyopengl.sourceforge.net/): Python wrapper for OpenGL
+  - [PyOgre](https://wiki.ogre3d.org/PyOgre): Python wrapper for Ogre3D
 
-- Data Science:
+- Data Science, Artificial Intelligence, Machine Learning & Deep Learning:
 
-  - NumPy: Array and numerical computing library
-  - Pandas: Data manipulation and analysis library
-  - Matplotlib: Visualization library
-  - Scikit-learn: Machine learning library
-  - SciPy: Scientific computing library
+  - [NumPy](https://numpy.org/): Array and numerical computing library
+  - [Pandas](https://pandas.pydata.org/): Data manipulation and analysis library
+  - [Matplotlib](https://matplotlib.org/): Visualization library
+  - [Scikit-learn](https://scikit-learn.org/): Machine learning library
+  - [SciPy](https://scipy.org/): Scientific computing library
 
-- Artificial Intelligence:
+- Data Science, Artificial Intelligence, Machine Learning & Deep Learning:
 
-  - TensorFlow: Machine learning library for neural networks
-  - PyTorch: Machine learning library for neural networks
-  - Keras: High-level neural networks API
-  - Theano: Mathematical computations library
-  - Caffe: Deep learning framework
-
-- Machine Learning:
-
-  - Scikit-learn: Machine learning library
-  - TensorFlow: Machine learning library for neural networks
-  - PyTorch: Machine learning library for neural networks
-  - Keras: High-level neural networks API
-  - XGBoost: Gradient boosting library
-
-- Deep Learning:
-
-  - TensorFlow: Machine learning library for neural networks
-  - PyTorch: Machine learning library for neural networks
-  - Keras: High-level neural networks API
-  - Theano: Mathematical computations library
-  - Caffe: Deep learning framework
+  - [TensorFlow](https://www.tensorflow.org/?hl=fr): Machine learning library for neural networks
+  - [PyTorch](https://pytorch.org/): Machine learning library for neural networks
+  - [Keras](https://keras.io/): High-level neural networks API
+  - [Caffe](https://caffe.berkeleyvision.org/): Deep learning framework
+  - [XGBoost](https://xgboost.readthedocs.io/en/stable/): Gradient boosting library
 
 - Computer Vision:
 
-  - OpenCV: Computer vision library
+  - [OpenCV](https://opencv.org/): Computer vision library
   - DLIB: Machine learning and computer vision library
   - SimpleCV: Python framework for computer vision
   - imutils: Basic image processing package
