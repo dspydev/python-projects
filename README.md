@@ -18,9 +18,12 @@ Below is a Python Cheatsheet:
 
 # Math Skills for Python Developers
 
-One of my favorite websites to refresh my math skills :
+One of my favorite websites to refresh my math skills is [mathsisfun](https://www.mathsisfun.com/). Here some important subjects:
 
-- [mathsisfun](https://www.mathsisfun.com/)
+- [Numbers Theory](https://www.mathsisfun.com/numbers/index.html)
+- [Algebra](https://www.mathsisfun.com/algebra/index.html)
+- [Calculus](https://www.mathsisfun.com/calculus/index.html)
+- [Data, Probability & Statistics](https://www.mathsisfun.com/data/index.html)
 
 # Frameworks, Packages or Libraries (upcoming)
 
@@ -60,18 +63,18 @@ Below is a list of the most popular and commonly used frameworks, packages, or l
 - Computer Vision:
 
   - [OpenCV](https://opencv.org/): Computer vision library
-  - DLIB: Machine learning and computer vision library
-  - SimpleCV: Python framework for computer vision
-  - imutils: Basic image processing package
-  - Mahotas: Python library of computer vision algorithms
+  - [DLIB](http://dlib.net/): Machine learning and computer vision library
+  - [SimpleCV](http://simplecv.org/): Python framework for computer vision
+  - [imutils](https://github.com/PyImageSearch/imutils): Basic image processing package
+  - [Mahotas](https://mahotas.readthedocs.io/en/latest/): Python library of computer vision algorithms
 
 - Internet of Things:
 
-  - Adafruit IO: Cloud-based service for IoT projects
-  - MQTT: Messaging protocol for IoT
-  - Flask-Ask: Python framework for voice-based applications
-  - AWS IoT: Cloud platform for IoT applications
-  - Thingspeak: Cloud-based service for sensor data collection
+  - [Adafruit IO](https://io.adafruit.com/): Cloud-based service for IoT projects
+  - [MQTT](https://mqtt.org/): Messaging protocol for IoT
+  - [Flask-Ask](https://github.com/johnwheeler/flask-ask): Python framework for voice-based applications
+  - [AWS IoT](https://aws.amazon.com/fr/iot-core/): Cloud platform for IoT applications
+  - [Thingspeak](https://thingspeak.com/): Cloud-based service for sensor data collection
 
 - Robotics:
 
