@@ -25,7 +25,7 @@ One of my favorite websites to refresh my math skills is [mathsisfun](https://ww
 - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 - [Data, Probability & Statistics](https://www.mathsisfun.com/data/index.html)
 
-# Frameworks, Packages or Libraries (upcoming)
+# Frameworks, Packages or Libraries:
 
 Below is a list of the most popular and commonly used frameworks, packages, or libraries:
 
@@ -51,9 +51,6 @@ Below is a list of the most popular and commonly used frameworks, packages, or l
   - [Matplotlib](https://matplotlib.org/): Visualization library
   - [Scikit-learn](https://scikit-learn.org/): Machine learning library
   - [SciPy](https://scipy.org/): Scientific computing library
-
-- Data Science, Artificial Intelligence, Machine Learning & Deep Learning:
-
   - [TensorFlow](https://www.tensorflow.org/?hl=fr): Machine learning library for neural networks
   - [PyTorch](https://pytorch.org/): Machine learning library for neural networks
   - [Keras](https://keras.io/): High-level neural networks API
