@@ -2,10 +2,11 @@
 
 This code simulates a simple furniture store that:
 
-- sells three items, each with their respective descriptions and prices
-- calculates the sales tax rate and defines a function to calculate the sales tax
-- simulates a customer purchasing two items from the store
-- calculates the total cost of the customer's purchases, adds the sales tax, and prints a receipt with the itemization, subtotal, sales tax, and total cost
+- Sells three items, each with their respective descriptions and prices
+- Calculates the sales tax rate and defines a function to calculate the sales tax
+- Simulates a customer purchasing two items from the store
+- Calculates the total cost of the customer's purchases, adds the sales tax
+- Prints a receipt with the itemization, subtotal, sales tax, and total cost
 
 The code is optimized for readability and efficiency by using a dictionary to store the inventory, a loop to iterate over the customer's purchases, and f-strings to format the output.
 
@@ -13,10 +14,9 @@ The code is optimized for readability and efficiency by using a dictionary to st
 
 Here are the required skills for creating this project:
 
-- Basic knowledge of Python programming language
-- Understanding of data types, variables, and control structures in Python
-- Proficiency in functions in Python
-- Ability to format strings in Python
-- Knowledge of basic arithmetic operations, such as adding, multiplying, and rounding numbers
-- Understanding of best practices for organizing code and optimizing for readability and efficiency
+- Knowledge of Python programming language fundamentals, including data types, syntax, control flow, and functions
+- Familiarity with Python dictionaries and lists
+- Understanding of how to define and call functions in Python
+- Proficiency in using string formatting in Python
+- Basic debugging skills to identify and fix any errors that may arise in the code
 
