@@ -78,11 +78,11 @@ Below is a list of the most popular and commonly used frameworks, packages, or l
 
 - Robotics:
 
-  - ROS: Software libraries and tools for building robot applications
-  - PyRobot: High-level interface for robot control
-  - RoboDK: Simulator and offline programming tool for industrial robots
-  - Gazebo: Robot simulation software
-  - MoveIt: Motion planning framework for robot arms
+  - [ROS](https://www.ros.org/): Software libraries and tools for building robot applications
+  - [PyRobot](https://pyrobot.org/): High-level interface for robot control
+  - [RoboDK](https://robodk.com/): Simulator and offline programming tool for industrial robots
+  - [Gazebo](https://classic.gazebosim.org/): Robot simulation software
+  - [MoveIt](https://moveit.ros.org/): Motion planning framework for robot arms
 
 # Helpful Resources for Front-End Developement
 
