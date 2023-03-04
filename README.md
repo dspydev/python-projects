@@ -6,8 +6,8 @@ Hi, my name is Damien SOULÉ. I am passionate about Python programming in genera
 
 As projects appear, they will be categorized and added to the list below :
 
-- [Furniture Store Receipt with Python](https://github.com/developpeurpython/python-projects/tree/main/furniture-store-receipt-with-python)
-- [Magic 8-Ball with Python](https://github.com/developpeurpython/python-projects/tree/main/magic-8-ball-with-python)
+- [Furniture Store Receipt with Python](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt-py)
+- [Magic 8-Ball with Python](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
 - upcoming
  
 # Python Cheatsheet
