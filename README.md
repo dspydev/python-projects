@@ -11,6 +11,10 @@ As projects appear, they will be categorized and added to the list below :
 - [Restaurant Menu with Python](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-py)
 - upcoming
 
+# Python Cheatsheets
+
+- [Python Cheatsheets (codecademy)](https://www.codecademy.com/resources/cheatsheets/language/python)
+
 # Math Skills for Python Developers
 
 One of my favorite websites to refresh my math skills is [mathsisfun](https://www.mathsisfun.com/). Here some important subjects:
