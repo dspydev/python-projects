@@ -4,7 +4,7 @@ Hi, my name is Damien SOULÉ. I am passionate about Python programming in genera
 
 # My Python Projects
 
-As projects appear, they will be categorized and added to the list below :
+Below is a list of my Python projects that focus on data science, artificial intelligence, machine learning, and web development:
 
 - [Furniture Store Receipt with Python](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt-py)
 - [Magic 8-Ball with Python](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
