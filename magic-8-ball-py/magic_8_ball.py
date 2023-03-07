@@ -2,7 +2,7 @@ import openai
 import random
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "YOUR_SECRET_KEY_API"
 
 # Set up GPT-3 parameters
 model_engine = "text-davinci-002"
