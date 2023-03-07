@@ -1,22 +1,26 @@
 # Code explanation
 
-This Python program simulates a Magic 8-Ball game, where the user can ask a question and receive a random answer. The program follows these steps:
+The Magic 8-Ball is a popular toy that provides answers to yes-or-no questions. In this project, I created a digital version of the Magic 8-Ball using the OpenAI API to generate responses. 
 
-- Define the main function with the game loop and input validation.
-- Prompt the user to enter their name and question.
-- Generate a random answer from a list of possible answers.
-- Print the user's name and question (if provided), and the Magic 8-Ball's answer.
-- Ask the user if they want to play again, and exit if the user chooses to quit.
-- Handle exceptions to exit the program gracefully.
+The user inputs a question, and the program generates a random response. The user can play the game multiple times by asking additional questions or exit the game. To create this project, follow these steps:
+
+- Sign up for an OpenAI account and obtain an API key.
+- Open a new notebook in Google Colab.
+- Install the openai package by running !pip install openai in a code cell.
+- Define the generate_response function that uses the OpenAI API to generate a response.
+- Define the main function that defines the Magic 8-Ball game loop.
+- Add the code to run the main function when the script is executed.
+- Replace "YOUR_API_KEY" in the generate_response function with the API key you obtained from OpenAI.
+- Run the script by executing the code cells. The notebook will prompt the user for their name and a question, generate a response using the OpenAI API, and print the response to the user. The user can then choose to play again or exit the game.
+
+By following these steps, you can create a digital version of the Magic 8-Ball game using the OpenAI API.
 
 # Required skills
 
-To create this Python project, you will need to:
+To complete this project, you will need:
 
-- Understand basic Python programming concepts, such as conditional statements, loops, user input/output, and list manipulation.
-- Be familiar with the random module in Python to generate random numbers.
-- Know how to handle exceptions using try and except statements.
-- Understand the importance of good coding practices, such as writing readable code and adding comments.
-- Be able to design and implement an algorithm to structure the program effectively.
-
-Overall, the project requires a combination of technical skills and problem-solving ability to create a functioning Magic 8-Ball game.
+- Proficiency in Python programming to implement the Magic 8-Ball game using the OpenAI API.
+- Familiarity with the OpenAI API and how to use it to generate text using GPT-3.
+- Experience with Google Colab and how to use it to run Python code in a notebook environment.
+- Basic command line skills to install packages and run Python scripts.
+- Strong debugging skills to troubleshoot errors and bugs in your code, particularly with the OpenAI API and its responses.
