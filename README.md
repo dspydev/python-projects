@@ -9,6 +9,7 @@ Below is a list of my Python projects that focus on data science, artificial int
 - [Furniture Store Receipt with Python](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt-py)
 - [Magic 8-Ball with Python](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
 - [Restaurant Menu with Python](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-py)
+- [Sports News Classifier with Python](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
 - upcoming
 
 # Python Cheatsheets
