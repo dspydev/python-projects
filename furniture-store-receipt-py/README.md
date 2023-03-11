@@ -1,22 +1,28 @@
-# Code explanation
+# Introduction
 
-This code simulates a simple furniture store that:
+This case study aims to help a furniture store increase its sales and profits by addressing the issue that only one of its three items is selling well. Our goal is to identify ways to increase the sales of the less popular items and improve the store's business performance.
 
-- Sells three items, each with their respective descriptions and prices
-- Calculates the sales tax rate and defines a function to calculate the sales tax
-- Simulates a customer purchasing two items from the store
-- Calculates the total cost of the customer's purchases, adds the sales tax
-- Prints a receipt with the itemization, subtotal, sales tax, and total cost
+# Problem
 
-The code is optimized for readability and efficiency by using a dictionary to store the inventory, a loop to iterate over the customer's purchases, and f-strings to format the output.
+The store's sales data shows that the Lovely Loveseat is the only best-selling item, while the other two items, Stylish Settee and Luxurious Lamp, are not selling well. This could lead to a decline in sales and profits if no action is taken.
 
-# Required skills
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115745200/224507013-bdba2b25-84f0-4694-8ca0-4ffb3b5ea598.png">
+</p>
 
-Here are the required skills for creating this project:
+# Solutions
 
-- Knowledge of Python programming language fundamentals, including data types, syntax, control flow, and functions
-- Familiarity with Python dictionaries and lists
-- Understanding of how to define and call functions in Python
-- Proficiency in using string formatting in Python
-- Basic debugging skills to identify and fix any errors that may arise in the code
+Two potential solutions have been identified:
 
+- Increase the marketing efforts for the Stylish Settee and Luxurious Lamp by advertising these items more prominently in the store and online.
+- Bundle the less popular items with the best-selling item, Lovely Loveseat, as a package deal to encourage customers to purchase all three items.
+
+However, there are potential drawbacks to each solution. The first solution may not reach the target audience effectively, and the second solution may result in a decrease in profit if the bundled price is too low. Therefore, it is important for the store to experiment and measure the success of each solution to determine which one is most effective.
+
+# Conclusion
+
+In conclusion, we recommend the store bundle the less popular items with the best-selling item, Lovely Loveseat, as a package deal and market it through various channels. The bundled price should be reasonable to prevent a loss in profit. The store should track sales before and after implementation of the solution, and regularly monitor and adjust the plan as necessary.
+
+# Next Steps
+
+The store manager should enforce this plan, and implement the solution within the next two weeks to capture potential customers interested in purchasing furniture.
