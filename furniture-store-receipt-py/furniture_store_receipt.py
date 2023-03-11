@@ -1,12 +1,10 @@
-# Furniture Store
-
 # Define the inventory of items available for purchase.
 # Each item is a dictionary with a description and a price.
 
 inventory = {
     "Lovely Loveseat": {
         "description": "Tufted polyester blend on wood.",
-        "price": 254
+        "price": 254.00
     },
     "Stylish Settee": {
         "description": "Faux leather on birch.",
@@ -36,30 +34,41 @@ customer_purchases = ["Lovely Loveseat", "Luxurious Lamp"]
 # Initialize the customer's itemization and total as empty strings.
 
 customer_itemization = ""
-customer_total = 0
+customer_subtotal = 0
 
-# Iterate over the customer's purchases and update the itemization and total.
-# For each item, add its name and description to the itemization string,
-# and add its price to the total.
+# Iterate over the customer's purchases and update the itemization and subtotal.
+# For each item, add its name, description, and price to the itemization string,
+# and add its price to the subtotal.
 
 for item in customer_purchases:
-    # Add the item and its description to the customer's itemization.
-    customer_itemization += f"{item}: {inventory[item]['description']}\n"
-    # Add the item's price to the customer's total.
-    customer_total += inventory[item]['price']
+    # Add the item, description, and price to the customer's itemization.
+    item_price = inventory[item]['price']
+    customer_itemization += f"| {item:25} | ${item_price:>7.2f} |\n"
+    customer_itemization += f"| {' ' * 3}{inventory[item]['description']:45} |\n"
+    # Add the item's price to the customer's subtotal.
+    customer_subtotal += item_price
 
-# Calculate the sales tax on the customer's total.
+# Calculate the sales tax on the customer's subtotal.
 
-sales_tax = calculate_sales_tax(customer_total)
+sales_tax = calculate_sales_tax(customer_subtotal)
 
-# Add the sales tax to the customer's total to get the final price.
+# Add the sales tax to the customer's subtotal to get the final price.
 
-customer_total += sales_tax
+customer_total = customer_subtotal + sales_tax
 
 # Print the customer's receipt, including the itemization, subtotal, sales tax, and total.
 
-print("\nCUSTOMER RECEIPT\n")
-print(f"Itemization:\n{customer_itemization}")
-print(f"Subtotal: ${customer_total - sales_tax:.2f}")
-print(f"Sales Tax: ${sales_tax:.2f}")
-print(f"Total: ${customer_total:.2f}")
+print("\n" + "=" * 45)
+print("     FURNITURE STORE")
+print("=" * 45 + "\n")
+
+print(f"{'Item':25}   {'Price':>10}")
+print("-" * 45)
+print(customer_itemization)
+print("-" * 45)
+print(f"{'Subtotal:':<25}   ${customer_subtotal:>7.2f}")
+print(f"{'Sales Tax @8.8%:':<25}   ${sales_tax:>7.2f}")
+print(f"{'Total:':<25}   ${customer_total:>7.2f}")
+print("\n" + "=" * 45)
+print("     THANK YOU FOR SHOPPING WITH US!")
+print("=" * 45 + "\n")
