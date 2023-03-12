@@ -1,18 +1,23 @@
-# Code explanation
+# Introduction
 
-- The code imports necessary libraries and modules for building and testing a machine learning model that classifies sports news articles as being about baseball or hockey.
-- It fetches a dataset of sports news articles from the 20 Newsgroups corpus, splits the dataset into training and test sets, and creates a pipeline that preprocesses the data and trains a Naive Bayes classifier.
-- It evaluates the performance of the model on the test set by computing its accuracy score and displays the score using Markdown.
-- It uses GridSearchCV to search for the best hyperparameters for the model, and outputs the best hyperparameters and their associated test score using a pandas DataFrame and Markdown.
-- Finally, it provides some context and explanation for the output using Markdown.
+My goal is to build a sports news classifier that accurately categorizes articles as either baseball or hockey, providing sports fans with quick access to news articles related to their preferred sport.
 
-# Required skills
+# Problem
 
-- Python programming
-- Machine Learning fundamentals
-- Data cleaning and preprocessing
-- Text classification techniques
-- Scikit-learn library
-- Pandas library
-- Jupyter Notebook or similar environment (e.g. Google Colab)
-- Basic understanding of HTML and CSS for output customization (optional)
+I am facing the challenge of accurately classifying articles due to the similarity in terminology between baseball and hockey. It is difficult to differentiate between sports-specific terminology.
+
+# Solution
+
+I propose using scikit-learn's Multinomial Naive Bayes algorithm, coupled with CountVectorizer, to convert articles into numerical features and classify them accurately. I will tune the hyperparameters using GridSearchCV. I will also evaluate other classification algorithms such as Support Vector Machines, Logistic Regression, or Random Forests as alternatives.
+
+# Conclusion
+
+My recommended solution is to use the Multinomial Naive Bayes algorithm with CountVectorizer. To improve the model, I suggest collecting more sports news data to expand the classifier to other sports categories. I will regularly evaluate and adjust parameters to maintain optimal performance. Finally, this classifier can also serve as a recommendation engine for sports fans.
+
+# Next Steps (Hypothesis)
+
+- Collecting more sports news data will likely improve the classifier's accuracy and enable it to cover other sports categories.
+- Regularly evaluating and adjusting parameters will help maintain optimal performance, and hyperparameter tuning using GridSearchCV will improve the model's accuracy.
+- Exploring other classification algorithms such as Support Vector Machines, Logistic Regression, or Random Forests may yield better performance in some cases but may also require more computational resources and hyperparameter tuning.
+- Using the classifier as a recommendation engine for sports fans based on their preferences could improve user engagement and satisfaction.
+- Deploying the classifier to a user-friendly interface or integrating it into an existing platform for sports news will increase accessibility and usability for users.
