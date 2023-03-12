@@ -180,22 +180,26 @@ Arepa = Business("Take a' Arepa", [arepas_place])
 
 # Adding a new item to the brunch menu
 brunch_menu.add_item("juice", 2.50)
-print("New brunch menu items:", brunch_menu.items)
+print("\n*** Updated brunch menu items ***")
+for item, price in brunch_menu.items.items():
+    print(f"{item}: ${price}")
 
 # Removing the kids menu from the new installment Franchise object
-print("\nBefore removing menu from new installment:", new_installment.menus)
+print("\n*** Menus at new installment franchise before and after removing kids menu ***")
+print("Before:")
+for menu in new_installment.menus:
+    print(menu)
 new_installment.remove_menu(kids_menu)
-print("After removing menu from new installment:", new_installment.menus)
+print("\nAfter:")
+for menu in new_installment.menus:
+    print(menu)
 
 # Printing the available menus at the flagship store at noon
-print("\nMenus available at flagship store at 12pm:")
+print("\n*** Menus available at flagship store at 12pm ***")
 for menu in flagship_store.available_menus(12):
     print(menu)
 
 # Printing the total revenue for each Business object
-print(
-    "\nTotal revenue for Basta Fazoolin' with my Heart: ${:.2f}".format(
-        Basta.total_revenue()
-    )
-)
-print("Total revenue for Take a' Arepa: ${:.2f}".format(Arepa.total_revenue()))
+print("\n*** Total revenue ***")
+print("Basta Fazoolin' with my Heart: ${:.2f}".format(Basta.total_revenue()))
+print("Take a' Arepa: ${:.2f}".format(Arepa.total_revenue()))
