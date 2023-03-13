@@ -6,7 +6,7 @@ Hi, my name is Damien SOULÉ. I am passionate about Python programming in genera
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Web development (eg: Django)
+- Web Development (eg: Django)
 
 # My Projects
 
