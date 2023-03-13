@@ -15,8 +15,6 @@ To address these problems, I came up with a solution that combines supervised an
 
 While I believe that the proposed solution is the most effective, there are some alternatives worth considering. For example, a rule-based approach could be used instead of relying solely on GPT-3. This approach would involve defining a set of rules that map user questions to appropriate responses based on keywords, intents, and other relevant factors. Another alternative is to use a more advanced conversational agent that can handle multiple questions and context switching.
 
-# Pros and cons
-
 The proposed solution combining supervised and unsupervised learning techniques can lead to more accurate and relevant responses, but it requires a large amount of data and computational resources. The rule-based approach is effective for well-defined domains, but may not handle complex or ambiguous questions. Allowing for multiple questions in a single session can improve the user experience, but it may lead to longer response times and increased computational resources.
 
 # Conclusion
