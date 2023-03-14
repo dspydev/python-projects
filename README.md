@@ -16,6 +16,7 @@ Below is a list of my projects primarily made with Python:
 - [Magic 8-Ball with Python](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
 - [Restaurant Menu with Python](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-py)
 - [Sports News Classifier with Python](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
+- [Istanbul Population Growth Analysis with Python](https://github.com/dspydev/python-projects/tree/main/istanbul-population-growth-analysis-py)
 - upcoming
 
 # I usually organize and explain my projects (case study) as follows:
