@@ -18,7 +18,7 @@ Below is a list of my projects primarily made with Python:
 - [Sports News Classifier with Python](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
 - upcoming
 
-# I usually organize and explain my projects (case-study) as follows:
+# I usually organize and explain my projects (case study) as follows:
 
 - **Introduction**
   
