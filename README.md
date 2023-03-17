@@ -21,7 +21,7 @@ Below is a list of my projects primarily made with Python:
 - [Netflix Recommendation System with Python](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
 - upcoming
 
-# I usually organize and explain my projects (case study) as follows:
+# I usually organize and explain my projects as follows:
 
 - **Introduction**
   
