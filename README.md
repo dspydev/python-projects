@@ -18,6 +18,7 @@ Below is a list of my projects primarily made with Python:
 - [Sports News Classifier with Python](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
 - [Istanbul Population Growth Analysis with Python](https://github.com/dspydev/python-projects/tree/main/istanbul-population-growth-analysis-py)
 - [Poisson Defect Analysis with Python](https://github.com/dspydev/python-projects/tree/main/poisson-defect-analysis-py)
+- [Netflix Recommendation System with Python](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
 - upcoming
 
 # I usually organize and explain my projects (case study) as follows:
