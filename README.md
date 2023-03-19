@@ -20,6 +20,7 @@ Below is a list of my projects primarily made with Python:
 - [Poisson Defect Analysis with Python](https://github.com/dspydev/python-projects/tree/main/poisson-defect-analysis-py)
 - [Netflix Recommendation System with Python](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
 - [Geo Locations Distance Mapper with Python](https://github.com/dspydev/python-projects/tree/main/geo-locations-distance-mapper-py)
+- [Password Strength Checker with Machine Learning and Python](https://github.com/dspydev/python-projects/tree/main/password-strength-checker-py)
 - upcoming
 
 # I usually organize and explain my projects as follows:
