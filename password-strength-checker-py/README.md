@@ -2,8 +2,6 @@
 
 In this case study, I aim to address the real-world problem of password security using a machine learning model based on the password_strength_classifier (https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset). The scenario involves a dataset of passwords, sourced from the 000webhost leak, with varying strengths as determined by three commercial password strength meters (Twitter, Microsoft, and Battle). The goal is to create a machine learning model that can predict the strength of a given password. To achieve this, I will make use of Python and relevant libraries.
 
-The passwords used in this analysis come from the 000webhost leak, which is available online. The strength of these passwords has been determined using a tool called PARS, developed by Georgia Tech University, which integrates multiple commercial password strength meters. I have used the strength evaluations provided by Twitter, Microsoft, and Battle to create a dataset of 0.7 million passwords (out of an initial 3 million) that have consistent strength labels across all three meters. This approach ensures that the dataset contains truly weak, medium, or strong passwords.
-
 # Problems
 
 The major problems I will encounter in this case study are:
