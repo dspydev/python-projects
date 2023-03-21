@@ -1,6 +1,6 @@
 # Introduction
 
-This case study aims to help a furniture store increase its sales and profits by addressing the issue that only one of its three items is selling well. Our goal is to identify ways to increase the sales of the less popular items and improve the store's business performance.
+This case study aims to help a furniture store increase its sales and profits by addressing the issue that only one of its three items is selling well. My goal is to identify ways to increase the sales of the less popular items and improve the store's business performance.
 
 # Problem
 
@@ -21,7 +21,7 @@ However, there are potential drawbacks to each solution. The first solution may 
 
 # Conclusion
 
-In conclusion, we recommend the store bundle the less popular items with the best-selling item, Lovely Loveseat, as a package deal and market it through various channels. The bundled price should be reasonable to prevent a loss in profit. The store should track sales before and after implementation of the solution, and regularly monitor and adjust the plan as necessary.
+In conclusion, I recommend the store bundle the less popular items with the best-selling item, Lovely Loveseat, as a package deal and market it through various channels. The bundled price should be reasonable to prevent a loss in profit. The store should track sales before and after implementation of the solution, and regularly monitor and adjust the plan as necessary.
 
 # Next Steps
 
