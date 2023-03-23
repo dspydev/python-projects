@@ -21,6 +21,7 @@ Below is a list of my projects primarily made with Python:
 - [Netflix Recommendation System with Python](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
 - [Geo Locations Distance Mapper with Python](https://github.com/dspydev/python-projects/tree/main/geo-locations-distance-mapper-py)
 - [Password Strength Checker with Machine Learning and Python](https://github.com/dspydev/python-projects/tree/main/password-strength-checker-py)
+- [AB Testing with Python](https://github.com/dspydev/python-projects/tree/main/ab-testing-py)
 - upcoming
 
 # I usually organize and explain my projects as follows:
