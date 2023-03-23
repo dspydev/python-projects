@@ -1,6 +1,10 @@
 # Introduction
 
-The purpose of this case study is to analyze the defect patterns in a manufacturing process, using the Poisson distribution to model the number of defects occurring in a fixed interval of time. Based on the available information and assumptions, I will examine the probabilities of different defect scenarios, generate a dataset of defect counts, and calculate summary statistics for the dataset.
+The purpose of this case study is to analyze the defect patterns in a manufacturing process, using the Poisson distribution to model the number of defects occurring in a fixed interval of time. 
+
+The Poisson distribution is a mathematical model used to predict the number of events happening in a fixed time or space. It's helpful when events are rare, separate, and happen at a constant rate. It's named after the French mathematician Siméon Denis Poisson.
+
+Based on the available information and assumptions, I will examine the probabilities of different defect scenarios, generate a dataset of defect counts, and calculate summary statistics for the dataset.
 
 # Problems
 
