@@ -1,3 +1,5 @@
+!pip install matplotlib
+
 import matplotlib.pyplot as plt
 
 # Define the inventory of items available for purchase.
