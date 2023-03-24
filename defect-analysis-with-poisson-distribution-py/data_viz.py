@@ -1,5 +1,7 @@
 '''Bar chart of defect scenarios probabilities'''
 
+!pip install matplotlib
+
 import matplotlib.pyplot as plt
 
 # Probabilities
