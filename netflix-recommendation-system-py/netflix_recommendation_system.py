@@ -1,3 +1,7 @@
+!pip install pandas
+!pip install matplotlib
+!pip install scikit-learn
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
