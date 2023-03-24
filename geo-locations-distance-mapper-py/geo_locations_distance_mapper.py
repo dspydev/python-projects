@@ -1,3 +1,6 @@
+!pip install geopy
+!pip install folium
+
 from geopy.geocoders import Nominatim
 from geopy.distance import distance
 import folium
