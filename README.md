@@ -17,7 +17,7 @@ Below is a list of my projects primarily made with Python:
 - [Restaurant Menu with Python](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-py)
 - [Sports News Classifier with Python](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
 - [Istanbul Population Growth Analysis with Python](https://github.com/dspydev/python-projects/tree/main/istanbul-population-growth-analysis-py)
-- [Poisson Defect Analysis with Python](https://github.com/dspydev/python-projects/tree/main/poisson-defect-analysis-py)
+- [Defect Analysis with Poisson Distribution](https://github.com/dspydev/python-projects/tree/main/defect-analysis-with-poisson-distribution-py)
 - [Netflix Recommendation System with Python](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
 - [Geo Locations Distance Mapper with Python](https://github.com/dspydev/python-projects/tree/main/geo-locations-distance-mapper-py)
 - [Password Strength Checker with Machine Learning and Python](https://github.com/dspydev/python-projects/tree/main/password-strength-checker-py)
