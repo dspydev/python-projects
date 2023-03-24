@@ -1,3 +1,7 @@
+!pip install scikit-learn
+!pip install pandas
+!pip install IPython
+
 from sklearn.datasets import fetch_20newsgroups
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
