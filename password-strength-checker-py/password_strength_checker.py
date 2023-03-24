@@ -1,3 +1,7 @@
+!pip install pandas
+!pip install scikit-learn
+!pip install io
+
 # Step 1: Import the file to Google Colab
 from google.colab import files
 uploaded = files.upload()
