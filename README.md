@@ -1,12 +1,8 @@
 # Python-Projects
 
-Hi, my name is Damien SOULÉ. I am passionate about Python programming in general. My projects mainly focus on:
+My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming in general. I enjoy diversifying my projects in order to gradually master their ecosystems. 
 
-- Data analysis/Data Science
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Web Development (eg: Django)
+My projects can involve data analysis, artificial intelligence, machine learning, deep learning, or even web application development (using Django). I am looking forward to growing and evolving as an artificial intelligence developer.
 
 # My Projects
 
@@ -24,25 +20,3 @@ Below is a list of my projects primarily made with Python:
 - [AB Testing with Python](https://github.com/dspydev/python-projects/tree/main/ab-testing-py)
 - [Sentiment Analyzer with TextBlob](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer-with-textblob-py)
 - upcoming
-
-# I usually organize and explain my projects as follows:
-
-- **Introduction**
-  
-    The purpose of the case study is to identify and address a real-world obstacle. The scenario will be presented along with any assumptions or theories based on available information.
-
-- **Problems** 
-
-    The major problems will be identified and analyzed, using factual evidence to support findings.
-
-- **Solutions**
-
-    Possible solutions will be outlined, with consideration given to several alternatives. The pros and cons of each solution will be presented.
-
-- **Conclusion**
-
-    The key takeaways from the problem-solving process will be summarized in the conclusion, highlighting any lessons learned.
-
-- **Next steps**
-  
-    A recommended solution will be proposed and specific actions will be outlined, including who should enforce them and when. The benefits of the recommended solution will be explained.
