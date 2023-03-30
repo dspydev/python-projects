@@ -1,8 +1,6 @@
-# Python-Projects
+# About
 
 My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming in general. I enjoy diversifying my projects in order to gradually master their ecosystems. 
-
-My projects can involve data analysis, artificial intelligence, machine learning, deep learning, or even web application development (using Django). I am looking forward to growing and evolving as an artificial intelligence developer.
 
 # My Projects
 
