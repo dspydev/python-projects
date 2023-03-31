@@ -1,6 +1,6 @@
 # About
 
-My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming in general. I enjoy diversifying my projects in order to gradually master their ecosystems. 
+My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming. I like to diversify my projects in order to gradually master the ecosystem of Python programming.
 
 # My Projects
 
