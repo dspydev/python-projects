@@ -17,4 +17,5 @@ Below is a list of my projects primarily made with Python:
 - [Password Strength Checker with Machine Learning and Python](https://github.com/dspydev/python-projects/tree/main/password-strength-checker-py)
 - [AB Testing with Python](https://github.com/dspydev/python-projects/tree/main/ab-testing-py)
 - [Sentiment Analyzer with TextBlob](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer-with-textblob-py)
+- [Web Scraping to Create a Dataset](https://github.com/dspydev/python-projects/tree/main/web-scraping-to-create-a-dataset-py)
 - upcoming
