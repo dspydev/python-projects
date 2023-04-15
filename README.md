@@ -1,6 +1,6 @@
 # About
 
-My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming. I like to diversify my projects in order to gradually master the ecosystem of Python programming.
+My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming. My projects primarily focus on data analysis, artificial intelligence, machine learning, deep learning, natural language processing, and all related disciplines (robotics, Internet of Things, etc.)
 
 # My Projects
 
@@ -18,6 +18,7 @@ Below is a list of my projects primarily made with Python:
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing-py)
 - [Sentiment Analyzer with TextBlob](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer-with-textblob-py)
 - [Web Scraping to Create a Dataset](https://github.com/dspydev/python-projects/tree/main/web-scraping-to-create-a-dataset-py)
-- [Dataset Generator with Faker](https://github.com/dspydev/python-projects/tree/main/dataset-generator-with-faker-py)
+- [Dataset Generator with Faker](https://github.com/dspydev/python-projects/tree/main/dataset-generator-with-faker)
 - [Mean-Median-Mode App Calculator](https://github.com/dspydev/python-projects/tree/main/mean-median-mode-app-calculator-py)
+- [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
 - upcoming
