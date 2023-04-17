@@ -8,7 +8,7 @@ Below is a list of my projects primarily made with Python:
 
 - [Furniture Store Receipt](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt-py)
 - [Magic 8-Ball](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
-- [Restaurant Menu](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-py)
+- [Restaurant Menu Manager](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-manager)
 - [Sports News Classifier with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
 - [Istanbul Population Growth Analysis](https://github.com/dspydev/python-projects/tree/main/istanbul-population-growth-analysis-py)
 - [Defect Analysis with Poisson Distribution](https://github.com/dspydev/python-projects/tree/main/defect-analysis-with-poisson-distribution-py)
