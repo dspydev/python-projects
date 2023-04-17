@@ -6,7 +6,7 @@ My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am p
 
 Below is a list of my projects primarily made with Python:
 
-- [Furniture Store Receipt](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt-py)
+- [Furniture Store Receipt](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt)
 - [Magic 8-Ball](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
 - [Restaurant Menu Manager](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-manager)
 - [Sports News Classifier with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
