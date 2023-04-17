@@ -17,7 +17,7 @@ Below is a list of my projects primarily made with Python:
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker-py)
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing-py)
 - [Sentiment Analyzer with TextBlob](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer-with-textblob-py)
-- [Web Scraping to Create a Dataset](https://github.com/dspydev/python-projects/tree/main/web-scraping-to-create-a-dataset-py)
+- [Web Scraping to Create a Dataset](https://github.com/dspydev/python-projects/tree/main/web-scraping-to-create-a-dataset)
 - [Dataset Generator with Faker](https://github.com/dspydev/python-projects/tree/main/dataset-generator-with-faker)
 - [Mean-Median-Mode App Calculator](https://github.com/dspydev/python-projects/tree/main/mean-median-mode-app-calculator)
 - [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
