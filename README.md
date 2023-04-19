@@ -16,7 +16,7 @@ Below is a list of my projects primarily made with Python:
 - [Geo Locations Distance Mapper](https://github.com/dspydev/python-projects/tree/main/geo-locations-distance-mapper-py)
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker)
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing)
-- [Sentiment Analyzer with TextBlob](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer-with-textblob-py)
+- [Sentiment Analyzer](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer)
 - [Web Scraping to Create a Dataset](https://github.com/dspydev/python-projects/tree/main/web-scraping-to-create-a-dataset)
 - [Dataset Generator with Faker](https://github.com/dspydev/python-projects/tree/main/dataset-generator-with-faker)
 - [Mean-Median-Mode App Calculator](https://github.com/dspydev/python-projects/tree/main/mean-median-mode-app-calculator)
