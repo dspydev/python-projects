@@ -7,13 +7,9 @@ My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am p
 Below is a list of my projects primarily made with Python:
 
 - [Furniture Store Receipt](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt)
-- [Magic 8-Ball](https://github.com/dspydev/python-projects/tree/main/magic-8-ball-py)
 - [Restaurant Menu Manager](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-manager)
-- [Sports News Classifier with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sports-news-classifier-py)
-- [Istanbul Population Growth Analysis](https://github.com/dspydev/python-projects/tree/main/istanbul-population-growth-analysis-py)
 - [Defect Analysis with Poisson Distribution](https://github.com/dspydev/python-projects/tree/main/defect-analysis-with-poisson-distribution-py)
 - [Netflix Recommendation System](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
-- [Geo Locations Distance Mapper](https://github.com/dspydev/python-projects/tree/main/geo-locations-distance-mapper-py)
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker)
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing)
 - [Sentiment Analyzer](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer)
