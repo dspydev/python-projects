@@ -18,4 +18,5 @@ Below is a list of my projects primarily made with Python:
 - [Mean-Median-Mode App Calculator](https://github.com/dspydev/python-projects/tree/main/mean-median-mode-app-calculator)
 - [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
 - [Object Detection with Computer Vision and Deep Learning](https://github.com/dspydev/python-projects/tree/main/object-detection)
+- [User Funnel Analysis](https://github.com/dspydev/python-projects/tree/main/user-funnel-analysis)
 - upcoming
