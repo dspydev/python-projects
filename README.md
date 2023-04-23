@@ -9,6 +9,7 @@ Below is a list of my projects primarily made with Python:
 - [User Funnel Analysis](https://github.com/dspydev/python-projects/tree/main/user-funnel-analysis)
 - [Recency, Frequency and Monetary Analysis](https://github.com/dspydev/python-projects/tree/main/recency-frequency-monetary-analysis)
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing)
+- [ABC Analysis](https://github.com/dspydev/python-projects/tree/main/abc-analysis)
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker)
 - [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
 - [Object Detection with Computer Vision and Deep Learning](https://github.com/dspydev/python-projects/tree/main/object-detection)
