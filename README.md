@@ -20,5 +20,4 @@ Below is a list of my projects primarily made with Python:
 - [Mean-Median-Mode App Calculator](https://github.com/dspydev/python-projects/tree/main/mean-median-mode-app-calculator)
 - [Furniture Store Receipt](https://github.com/dspydev/python-projects/tree/main/furniture-store-receipt)
 - [Restaurant Menu Manager](https://github.com/dspydev/python-projects/tree/main/restaurant-menu-manager)
-- [Netflix Recommendation System](https://github.com/dspydev/python-projects/tree/main/netflix-recommendation-system-py)
 - upcoming
