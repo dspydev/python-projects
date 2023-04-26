@@ -97,6 +97,7 @@ PLOT.update_traces(hovertemplate='Last Visited Minutes: %{x} <br>Average Spent o
 
 # Updating the layout of the scatter plot
 PLOT.update_layout(width = 800, height = 800, autosize = True, showlegend = True,
+                   title = 'Relationship between Last Visited Minutes and Average Spending, with Segments',
                    yaxis_title = 'Average Spent on App (INR)',
                    xaxis_title = 'Last Visited Minutes',
                    scene = dict(xaxis=dict(title = 'Last Visited Minutes', titlefont_color = 'black'),
