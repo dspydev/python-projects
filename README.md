@@ -12,6 +12,7 @@ Below is a list of my projects primarily made with Python:
 - [ABC Analysis with Machine Learning](https://github.com/dspydev/python-projects/tree/main/abc-analysis)
 - [Sales Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sales-prediction/sales-prediction-with-linear-regression)
 - [Profit Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/profit-prediction/profit-prediction-with-machine-learning)
+- [Supply Chain Analysis](https://github.com/dspydev/python-projects/tree/main/supply-chain-analysis)
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker)
 - [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
 - [Object Detection with Computer Vision and Deep Learning](https://github.com/dspydev/python-projects/tree/main/object-detection)
