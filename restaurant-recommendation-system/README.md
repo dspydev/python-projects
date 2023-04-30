@@ -36,7 +36,7 @@ I developed a content-based recommendation system that leveraged the TfidfVector
 
 # Conclusion
 
-Throughout this case study, I developed a content-based recommendation system for restaurants using the TripAdvisor dataset, focusing on restaurant types as the primary feature. By extracting features using TfidfVectorizer and measuring similarities using cosine similarity, I was able to create a function that recommends 10 restaurants similar to a given input. I also explored alternative methods, such as collaborative filtering and hybrid recommender systems, that could potentially improve recommendation quality.
+Throughout this case study, I developed a content-based recommendation system for restaurants using the TripAdvisor dataset, focusing on restaurant types as the primary feature. By extracting features using TfidfVectorizer and measuring similarities using cosine similarity, I was able to create a function that recommends 10 restaurants similar to a given input. 
 
 # Next Steps
 
