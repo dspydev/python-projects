@@ -14,6 +14,7 @@ Below is a list of my projects primarily made with Python:
 - [Profit Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/profit-prediction/profit-prediction-with-machine-learning)
 - [Supply Chain Analysis](https://github.com/dspydev/python-projects/tree/main/supply-chain-analysis)
 - [Similar News Recommender](https://github.com/dspydev/python-projects/tree/main/similar-news-recommender)
+- [Restaurant Recommendation System](https://github.com/dspydev/python-projects/tree/main/restaurant-recommendation-system)
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker)
 - [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
 - [Object Detection with Computer Vision and Deep Learning](https://github.com/dspydev/python-projects/tree/main/object-detection)
