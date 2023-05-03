@@ -9,6 +9,7 @@ Below is a list of my projects primarily made with Python:
 - [User Funnel Analysis](https://github.com/dspydev/python-projects/tree/main/user-funnel-analysis)
 - [Recency, Frequency and Monetary Analysis](https://github.com/dspydev/python-projects/tree/main/recency-frequency-monetary-analysis)
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing)
+- [Customer Lifetime Value Analysis](https://github.com/dspydev/python-projects/tree/main/customer-lifetime-value-analysis)
 - [ABC Analysis with Machine Learning](https://github.com/dspydev/python-projects/tree/main/abc-analysis)
 - [Sales Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sales-prediction/sales-prediction-with-linear-regression)
 - [Profit Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/profit-prediction/profit-prediction-with-machine-learning)
