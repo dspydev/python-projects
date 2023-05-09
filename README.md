@@ -11,6 +11,7 @@ Below is a list of my projects primarily made with Python:
 - [AB Testing](https://github.com/dspydev/python-projects/tree/main/ab-testing)
 - [Customer Lifetime Value Analysis](https://github.com/dspydev/python-projects/tree/main/customer-lifetime-value-analysis)
 - [ABC Analysis with Machine Learning](https://github.com/dspydev/python-projects/tree/main/abc-analysis)
+- [Superstore Sales Analysis](https://github.com/dspydev/python-projects/tree/main/superstore-sales-analysis)
 - [Sales Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sales-prediction/sales-prediction-with-linear-regression)
 - [Profit Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/profit-prediction/profit-prediction-with-machine-learning)
 - [Supply Chain Analysis](https://github.com/dspydev/python-projects/tree/main/supply-chain-analysis)
