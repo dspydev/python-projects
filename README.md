@@ -14,6 +14,7 @@ Below is a list of my projects primarily made with Python:
 - [Superstore Sales Analysis](https://github.com/dspydev/python-projects/tree/main/superstore-sales-analysis)
 - [Sales Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/sales-prediction/sales-prediction-with-linear-regression)
 - [Profit Prediction with Machine Learning](https://github.com/dspydev/python-projects/tree/main/profit-prediction/profit-prediction-with-machine-learning)
+- [Price Optimization Strategy with Machine Learning](https://github.com/dspydev/python-projects/tree/main/price-optimization-strategy)
 - [Supply Chain Analysis](https://github.com/dspydev/python-projects/tree/main/supply-chain-analysis)
 - [Ride Supply Demand Analysis](https://github.com/dspydev/python-projects/tree/main/ride-supply-demand-analysis)
 - [Similar News Recommender with Machine Learning](https://github.com/dspydev/python-projects/tree/main/similar-news-recommender)
