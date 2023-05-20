@@ -22,7 +22,6 @@ Below is a list of my projects primarily made with Python:
 - [Password Strength Checker with Machine Learning](https://github.com/dspydev/python-projects/tree/main/password-strength-checker)
 - [Fraud Detection using Machine Learning Algorithms](https://github.com/dspydev/python-projects/tree/main/fraud-detection-using-machine-learning-algorithms)
 - [Object Detection with Computer Vision and Deep Learning](https://github.com/dspydev/python-projects/tree/main/object-detection)
-- [Car Detection on Streamlit with Computer Vision and Deep Learning](https://github.com/dspydev/python-projects/tree/main/car-detection-streamlit)
 - [Sentiment Analyzer](https://github.com/dspydev/python-projects/tree/main/sentiment-analyzer)
 - [Web Scraping to Create a Dataset](https://github.com/dspydev/python-projects/tree/main/web-scraping-to-create-a-dataset)
 - [Dataset Generator with Faker](https://github.com/dspydev/python-projects/tree/main/dataset-generator-with-faker)
