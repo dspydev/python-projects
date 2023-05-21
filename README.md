@@ -1,6 +1,6 @@
 # About
 
-My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am passionate about Python programming. My projects primarily focus on data analysis, artificial intelligence, machine learning, deep learning, natural language processing, and all related disciplines (robotics, Internet of Things, etc.)
+My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am an artificial intelligence and machine learning developer. Here you will find some of my Jupyter notebooks on data analysis, machine learning, and related disciplines. I invite you to regularly check my GitHub homepage at https://github.com/dspydev. There you will find more comprehensive web data and machine learning application projects.
 
 # My Projects
 
