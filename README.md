@@ -1,6 +1,6 @@
-# About
+# About me
 
-My name is Damien Soulé, and I was born in 1990 in La Réunion (France). I am an artificial intelligence and machine learning developer. Here you will find some of my Jupyter notebooks on data analysis, machine learning, and related disciplines. I invite you to regularly check my GitHub homepage at https://github.com/dspydev. There you will find more comprehensive web data and machine learning application projects.
+My name is Damien SOULÉ, I am a Python developer and cybersecurity analyst passionate about the intersection of AI and cybersecurity.
 
 # My Projects
 
