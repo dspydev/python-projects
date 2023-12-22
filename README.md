@@ -4,7 +4,7 @@ My name is Damien SOULÉ, I am a Python developer and cybersecurity analyst pass
 
 # My Projects
 
-Below is a list of my projects primarily made with Python:
+Below, find a list of my Python projects, mainly in data analysis and Machine Learning:
 
 - [User Funnel Analysis](https://github.com/dspydev/python-projects/tree/main/user-funnel-analysis)
 - [Recency, Frequency and Monetary Analysis](https://github.com/dspydev/python-projects/tree/main/recency-frequency-monetary-analysis)
