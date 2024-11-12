@@ -1,6 +1,6 @@
 # About me
 
-My name is Damien SOULÉ, I am a Python developer and cybersecurity analyst passionate about the intersection of AI and cybersecurity.
+My name is Damien SOULÉ, I am a Python developer.
 
 # My Projects
 
